@@ -7,7 +7,7 @@
 - 👀 I'm passionate about problem solving, clean code, and real-world applications  
 - 💼 I'm actively looking for opportunities in **Software Development**, **Web Development**, or **Internships** in the IT field  
 - 🤝 I’m looking to collaborate on open-source projects and beginner-friendly contributions  
-- 📫 Reach me at: rohithbabu113@gmail.com or [LinkedIn](https://www.linkedin.com/in/rohithbabu113)  
+- 📫 Reach me at: hellorohith113@gmail.com or [LinkedIn](https://www.linkedin.com/in/rohithbabu113)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love breaking complex problems into small, simple solutions  
 
